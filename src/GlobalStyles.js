@@ -9,7 +9,7 @@ export const GlobalStyles = createGlobalStyle`
     };
     body {
         overflow-y: scroll;
-        font-family: 'Inter', sans-serif;
+        font-family: 'Lato', sans-serif;
         transition: 300ms;
     };
 `;
