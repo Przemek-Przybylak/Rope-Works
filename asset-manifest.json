@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Rope-Works/static/js/main.f2e13ef5.js",
+    "main.js": "/Rope-Works/static/js/main.7f92980a.js",
     "static/js/787.2114479f.chunk.js": "/Rope-Works/static/js/787.2114479f.chunk.js",
     "index.html": "/Rope-Works/index.html",
-    "main.f2e13ef5.js.map": "/Rope-Works/static/js/main.f2e13ef5.js.map",
+    "main.7f92980a.js.map": "/Rope-Works/static/js/main.7f92980a.js.map",
     "787.2114479f.chunk.js.map": "/Rope-Works/static/js/787.2114479f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f2e13ef5.js"
+    "static/js/main.7f92980a.js"
   ]
 }
