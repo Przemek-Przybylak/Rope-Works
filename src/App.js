@@ -1,5 +1,11 @@
+import { Container } from "./common/index";
+
 function App() {
-  return <div className="App">App</div>;
+  return (
+    <div className="App">
+      <Container>App</Container>
+    </div>
+  );
 }
 
 export default App;
