@@ -9,6 +9,7 @@ export const GlobalStyles = createGlobalStyle`
     };
     body {
         overflow-y: scroll;
+        background-color: green;
         font-family: 'Lato', sans-serif;
         transition: 300ms;
     };
