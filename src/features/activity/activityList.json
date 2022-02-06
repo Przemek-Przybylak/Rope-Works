@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "malowanie",
+    "poster": ""
+  },  
+  {
+    "id": 2,
+    "name": "czyszczenie",
+    "poster": ""
+  },
+  {
+    "id": 3,
+    "name": "mycie",
+    "poster": ""
+  },
+  {
+    "id": 4,
+    "name": "obsługa elektrowni wiatrowych",
+    "poster": ""
+  },
+  {
+    "id": 5,
+    "name": "prace zimowe",
+    "poster": ""
+  },
+  {
+    "id": 6,
+    "name": "prace instalacyjne",
+    "poster": ""
+  },
+  {
+    "id": 7,
+    "name": "zadania specjalne",
+    "poster": ""
+  },
+  {
+    "id": 8,
+    "name": "pomoc dla firm budowlanych",
+    "poster": ""
+  },
+  {
+    "id": 9,
+    "name": "montaż drabin",
+    "poster": ""
+  },
+  {
+    "id": 10,
+    "name": "montaż reklam",
+    "poster": ""
+  }
+]
