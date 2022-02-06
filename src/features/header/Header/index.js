@@ -15,13 +15,13 @@ export const Header = () => {
             <span>icona</span>oferta
           </Tile>
           <Tile item>
-            <span>icona</span>kontakt
-          </Tile>
-          <Tile item>
-            <span>icona</span>o nas
+            <span>icona</span> o nas
           </Tile>
           <Tile item>
             <span>icona</span>kariera
+          </Tile>
+          <Tile item>
+            <span>icona</span>kontakt
           </Tile>
           <Tile contact item>
             Bezpłatna wycena <span>icons</span>
