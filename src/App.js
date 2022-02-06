@@ -1,4 +1,6 @@
 import { Container } from "./common/Container/index";
+import { AboutUs } from "./features/aboutUs/AboutUs";
+import { Activity } from "./features/activity/Activity";
 import { Header } from "./features/header/Header";
 import { Slider } from "./features/slider/Slider";
 
@@ -7,8 +9,9 @@ function App() {
     <div className="App">
       <Header />
       <Container>
-        <Slider>Slider</Slider>
-        App
+        <Slider />
+        <Activity />
+        <AboutUs />
       </Container>
     </div>
   );
