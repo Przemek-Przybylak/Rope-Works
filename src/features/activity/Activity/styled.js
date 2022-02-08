@@ -6,13 +6,13 @@ export const Grid = styled.ul`
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 30px;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 50px;
 `;
 
 export const Tile = styled.li`
   padding: 10px;
-  height: 500px;
+  height: 300px;
   background-color: white;
   border-radius: 5%;
 `;
