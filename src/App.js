@@ -1,4 +1,4 @@
-import { Container } from "./common/Container/index";
+import { Container } from "./common/container/index";
 import { AboutUs } from "./features/aboutUs/AboutUs";
 import { Activity } from "./features/activity/Activity";
 import { Header } from "./features/header/Header";
