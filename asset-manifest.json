@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.js": "/Rope-Works/static/js/main.2284763e.js",
+    "main.js": "/Rope-Works/static/js/main.d793b346.js",
     "static/js/787.2114479f.chunk.js": "/Rope-Works/static/js/787.2114479f.chunk.js",
+    "static/media/montazDabiny.jpg": "/Rope-Works/static/media/montazDabiny.7c35c4dec46f87412577.jpg",
     "index.html": "/Rope-Works/index.html",
-    "main.2284763e.js.map": "/Rope-Works/static/js/main.2284763e.js.map",
+    "main.d793b346.js.map": "/Rope-Works/static/js/main.d793b346.js.map",
     "787.2114479f.chunk.js.map": "/Rope-Works/static/js/787.2114479f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2284763e.js"
+    "static/js/main.d793b346.js"
   ]
 }
