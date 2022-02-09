@@ -4,8 +4,10 @@ import { Wrapper } from "./styled";
 export const AboutUs = () => {
   return (
     <>
-      <h2>O nas</h2>
-      <Wrapper>{content}</Wrapper>
+      <Wrapper>
+        <h2>O nas</h2>
+        {content}
+      </Wrapper>
     </>
   );
 };
