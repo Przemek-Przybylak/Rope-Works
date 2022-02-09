@@ -7,17 +7,17 @@
   {
     "id": 2,
     "name": "czyszczenie",
-    "poster": ""
+    "poster": "https://i.ibb.co/9V6CJ86/czyszczenie.jpg"
   },
   {
     "id": 3,
     "name": "mycie",
-    "poster": ""
+    "poster": "https://i.ibb.co/cKBYngx/mycie.jpg"
   },
   {
     "id": 4,
     "name": "obsługa elektrowni wiatrowych",
-    "poster": ""
+    "poster": "https://i.ibb.co/WHh4RMj/wiatrak.jpg" 
   },
   {
     "id": 5,
@@ -27,12 +27,12 @@
   {
     "id": 6,
     "name": "prace instalacyjne",
-    "poster": ""
+    "poster": "https://i.ibb.co/qJhzBDs/instalacyjne.jpg"
   },
   {
     "id": 7,
     "name": "zadania specjalne",
-    "poster": ""
+    "poster": "https://i.ibb.co/BC7n1cz/specjalne2.jpg" 
   },
   {
     "id": 8,
@@ -42,7 +42,7 @@
   {
     "id": 9,
     "name": "montaż drabin",
-    "poster": ""
+    "poster": "https://i.ibb.co/VgRKRnL/drabina.jpg"
   },
   {
     "id": 10,
