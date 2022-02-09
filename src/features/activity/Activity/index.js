@@ -8,7 +8,7 @@ export const Activity = () => {
       <Grid>
         {activityList.map((activity) => (
           <Tile>
-            <Poster></Poster>
+            <Poster src={activity.poster} />
             <Description>{activity.name}</Description>
           </Tile>
         ))}
