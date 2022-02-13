@@ -1,4 +1,4 @@
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 import montazDabiny from "../images/montazDabiny.jpg";
 
 export const Wrapper = styled.article`
