@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.js": "/Rope-Works/static/js/main.d793b346.js",
+    "main.js": "/Rope-Works/static/js/main.4846d6bc.js",
     "static/js/787.2114479f.chunk.js": "/Rope-Works/static/js/787.2114479f.chunk.js",
+    "static/media/czyszczenie.jpg": "/Rope-Works/static/media/czyszczenie.6b6f362d8d4ab2bbf720.jpg",
     "static/media/montazDabiny.jpg": "/Rope-Works/static/media/montazDabiny.7c35c4dec46f87412577.jpg",
+    "static/media/drabina.jpg": "/Rope-Works/static/media/drabina.85cf370d798551f4c237.jpg",
+    "static/media/wiatrak.jpg": "/Rope-Works/static/media/wiatrak.05d7770bcf787ac02413.jpg",
+    "static/media/instalacyjne.jpg": "/Rope-Works/static/media/instalacyjne.f38368898e37df41d411.jpg",
+    "static/media/specjalne2.jpg": "/Rope-Works/static/media/specjalne2.58fabeb18fc9a997a4a6.jpg",
+    "static/media/mycie.jpg": "/Rope-Works/static/media/mycie.49929e7dfb9ba8fec461.jpg",
+    "static/media/noImage.jpg": "/Rope-Works/static/media/noImage.3c9db7d9dd06f20d4ef0.jpg",
     "index.html": "/Rope-Works/index.html",
-    "main.d793b346.js.map": "/Rope-Works/static/js/main.d793b346.js.map",
+    "main.4846d6bc.js.map": "/Rope-Works/static/js/main.4846d6bc.js.map",
     "787.2114479f.chunk.js.map": "/Rope-Works/static/js/787.2114479f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d793b346.js"
+    "static/js/main.4846d6bc.js"
   ]
 }
