@@ -1,3 +1,4 @@
+import { Header } from "../../../common/Header";
 import { content } from "../content";
 import { Wrapper } from "./styled";
 
@@ -5,7 +6,7 @@ export const AboutUs = () => {
   return (
     <>
       <Wrapper>
-        <h2>O nas</h2>
+        <Header>O nas</Header>
         {content}
       </Wrapper>
     </>
