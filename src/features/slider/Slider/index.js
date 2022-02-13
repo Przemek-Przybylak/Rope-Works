@@ -7,7 +7,6 @@ import {
   SliderWrapper,
   Wrapper,
 } from "./styled";
-import montazDabiny from "../images/montazDabiny.jpg";
 
 export const Slider = () => {
   const counter = useSelector(selectCounter);
