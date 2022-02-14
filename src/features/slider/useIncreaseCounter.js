@@ -11,6 +11,6 @@ export const useIncreaseCounter = () => {
       {
         counter < 1 ? dispatch(toggleCounter()) : dispatch(clearCounter());
       }
-    }, 500);
+    }, 5000);
   });
 };
