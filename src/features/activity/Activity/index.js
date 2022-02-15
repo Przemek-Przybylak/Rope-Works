@@ -1,11 +1,11 @@
 import { Description, DescriptionWrapper, Grid, Poster, Tile } from "./styled";
 import activityList from "../activityList.json";
-import { Header } from "../../../common/Header";
+import { SectionHeader } from "../../../common/Header";
 
 export const Activity = () => {
   return (
     <>
-      <Header>Oferta</Header>
+      <SectionHeader>Oferta</SectionHeader>
       <Grid>
         {activityList.map((activity) => (
           <Tile>
