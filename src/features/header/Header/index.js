@@ -1,3 +1,4 @@
+import { Social } from "../social/Social";
 import { HeaderBox, Logo, Tile, Wrapper } from "./styled";
 
 export const Header = () => {
@@ -24,7 +25,7 @@ export const Header = () => {
             <span>icona</span>kontakt
           </Tile>
           <Tile contact item>
-            Bezpłatna wycena <span>icons</span>
+            Bezpłatna wycena <Social />
           </Tile>
         </HeaderBox>
       </Wrapper>
