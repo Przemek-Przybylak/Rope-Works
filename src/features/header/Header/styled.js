@@ -2,6 +2,8 @@ import styled, { css } from "styled-components";
 
 export const Wrapper = styled.header`
   background-color: white;
+  position: sticky;
+  top: 0;
 `;
 export const HeaderBox = styled.div`
   max-width: 1350px;
