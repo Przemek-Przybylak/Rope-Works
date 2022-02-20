@@ -1,6 +1,6 @@
 import { Description, DescriptionWrapper, Grid, Poster, Tile } from "./styled";
 import activityList from "../activityList.json";
-import { SectionHeader } from "../../../common/Header";
+import { SectionHeader } from "../../../common/SectionHeader";
 
 export const Activity = () => {
   return (
