@@ -1,3 +1,11 @@
+import { Icon, IconsList } from "./styled";
+
 export const Social = () => {
-  return <>icons</>;
+  return (
+    <>
+      <IconsList>
+        <Icon /> <Icon /> <Icon /> <Icon />
+      </IconsList>
+    </>
+  );
 };
