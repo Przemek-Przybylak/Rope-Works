@@ -24,6 +24,11 @@ export const Tile = styled.li`
   border-radius: 5%;
   display: flex;
   flex-direction: column;
+  transition: 0.3s;
+
+  &:hover {
+    transform: scale(1.1);
+  }
 `;
 
 export const Poster = styled.img`
