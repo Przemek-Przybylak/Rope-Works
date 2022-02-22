@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Rope-Works/static/js/main.4846d6bc.js",
+    "main.js": "/Rope-Works/static/js/main.d7ca2a8f.js",
     "static/js/787.2114479f.chunk.js": "/Rope-Works/static/js/787.2114479f.chunk.js",
     "static/media/czyszczenie.jpg": "/Rope-Works/static/media/czyszczenie.6b6f362d8d4ab2bbf720.jpg",
     "static/media/montazDabiny.jpg": "/Rope-Works/static/media/montazDabiny.7c35c4dec46f87412577.jpg",
@@ -10,11 +10,13 @@
     "static/media/specjalne2.jpg": "/Rope-Works/static/media/specjalne2.58fabeb18fc9a997a4a6.jpg",
     "static/media/mycie.jpg": "/Rope-Works/static/media/mycie.49929e7dfb9ba8fec461.jpg",
     "static/media/noImage.jpg": "/Rope-Works/static/media/noImage.3c9db7d9dd06f20d4ef0.jpg",
+    "static/media/LinkedIN.svg": "/Rope-Works/static/media/LinkedIN.5948a5535107a88925ed77a5daee0c6a.svg",
     "index.html": "/Rope-Works/index.html",
-    "main.4846d6bc.js.map": "/Rope-Works/static/js/main.4846d6bc.js.map",
+    "static/media/Facebook.svg": "/Rope-Works/static/media/Facebook.1e8d802d4c2e086e668ee6b03aa4ff54.svg",
+    "main.d7ca2a8f.js.map": "/Rope-Works/static/js/main.d7ca2a8f.js.map",
     "787.2114479f.chunk.js.map": "/Rope-Works/static/js/787.2114479f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4846d6bc.js"
+    "static/js/main.d7ca2a8f.js"
   ]
 }
