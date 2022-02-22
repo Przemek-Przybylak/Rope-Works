@@ -78,6 +78,7 @@ export const DescriptionWrapper = styled.div`
   align-items: center;
   justify-content: center;
   height: 20%;
+  color: ${({ theme }) => theme.colors.black};
 `;
 export const Description = styled.span`
   font-weight: 600;
