@@ -1,7 +1,7 @@
 import styled, { css } from "styled-components";
 
 export const Wrapper = styled.header`
-  background-color: white;
+  background-color: ${({ theme }) => theme.colors.white};
   position: sticky;
   top: 0;
 `;
