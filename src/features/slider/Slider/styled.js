@@ -3,7 +3,6 @@ import montazDabiny from "../images/montazDabiny.jpg";
 
 export const Wrapper = styled.article`
   height: 92vh;
-  background-color: black;
   margin-bottom: 50px;
 `;
 
@@ -21,7 +20,6 @@ export const SliderWrapper = styled.div`
 `;
 
 export const ImageDescription = styled.h3`
-  color: white;
   font-size: 50px;
   letter-spacing: 1.3;
   font-weight: 900;
