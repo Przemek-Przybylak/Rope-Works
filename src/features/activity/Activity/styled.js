@@ -20,7 +20,7 @@ export const Grid = styled.ul`
 export const Tile = styled.li`
   padding: 10px 10px 0 10px;
   height: 300px;
-  background-color: white;
+  background-color: ${({ theme }) => theme.colors.white};
   border-radius: 5%;
   display: flex;
   flex-direction: column;
