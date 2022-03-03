@@ -17,7 +17,7 @@ export const Icon = styled.a`
   padding: 0;
   width: 20px;
   height: 20px;
-  transition: 0.25s;
+  transition: 0.3s;
 
   &:hover {
     transform: scale(1.3);
